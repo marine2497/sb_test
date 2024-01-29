@@ -1,0 +1,10 @@
+.\output\global.o: App\Sur\Global.c
+.\output\global.o: .\App\Inc\Global.h
+.\output\global.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\output\global.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\output\global.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\output\global.o: .\App\Inc\DGPS.h
+.\output\global.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\output\global.o: .\App\Inc\TargetCtrl.h
+.\output\global.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\output\global.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h

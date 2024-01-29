@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/AttSensor/!svn/ver/6/Software/Application/Libraries/CMSIS/Core/CM3
+END
+core_cm3.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/AttSensor/!svn/ver/6/Software/Application/Libraries/CMSIS/Core/CM3/core_cm3.h
+END
+system_stm32f10x.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/AttSensor/!svn/ver/6/Software/Application/Libraries/CMSIS/Core/CM3/system_stm32f10x.h
+END
+core_cm3.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/AttSensor/!svn/ver/6/Software/Application/Libraries/CMSIS/Core/CM3/core_cm3.c
+END
+system_stm32f10x.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/AttSensor/!svn/ver/6/Software/Application/Libraries/CMSIS/Core/CM3/system_stm32f10x.c
+END
+stm32f10x.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/AttSensor/!svn/ver/6/Software/Application/Libraries/CMSIS/Core/CM3/stm32f10x.h
+END

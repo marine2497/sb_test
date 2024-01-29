@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/AttSensor/!svn/ver/6/Software/Application/Libraries/CMSIS/Core/CM3/startup/iar
+END
+startup_stm32f10x_hd.s
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/AttSensor/!svn/ver/6/Software/Application/Libraries/CMSIS/Core/CM3/startup/iar/startup_stm32f10x_hd.s
+END
+startup_stm32f10x_ld.s
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/AttSensor/!svn/ver/6/Software/Application/Libraries/CMSIS/Core/CM3/startup/iar/startup_stm32f10x_ld.s
+END
+startup_stm32f10x_md.s
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/AttSensor/!svn/ver/6/Software/Application/Libraries/CMSIS/Core/CM3/startup/iar/startup_stm32f10x_md.s
+END
